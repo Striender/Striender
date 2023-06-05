@@ -37,6 +37,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=striender&show_icons=true&locale=en" style="width:400px ; height:250x ;"  alt="striender" /></p>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Striender?theme=forest&font=&extension=null&align=right)  
+![LeetCode Stats](https://leetcode.card.workers.dev/Striender?theme=forest&font=&extension=null)  
 
 
