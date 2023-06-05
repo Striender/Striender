@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C ,C++ , HTML , CSS , JS**
 
-- 📫 How to reach me **patelneeraj96802@gmail.com**
+- 📫 How to reach me **Striender12@gmail.com**
 
 <br>
 <br>
