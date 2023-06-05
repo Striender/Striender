@@ -35,4 +35,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=striender&show_icons=true&locale=en&layout=compact" style="width:350px ; height:200px ;" alt="striender" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=striender&show_icons=true&locale=en" style="width:400px ; height:200x ; padding-top:40px;"  alt="striender" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=striender&show_icons=true&locale=en" style="width:400px ; height:200x ; padding-top:40px;"  alt="striender" /></p>
