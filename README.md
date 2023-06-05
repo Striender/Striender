@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Neeraj Patel</h1>
 <h3 align="center">Making the web more beautiful, one page at a time </h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/vYohTOrXc0jOiFiPF1yOd6DsdbPM_gCp927Z3LD1heM/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9jZDM3/ZmE0OWM5ODNhYzkw/NWRmMDAxNmZkNWI2/YTJlZS90ZW5vci5n/aWY_aXRlbWlkPTEz/MTY1MjE2.gif">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/vYohTOrXc0jOiFiPF1yOd6DsdbPM_gCp927Z3LD1heM/rs:fit:640:480:1/g:ce/aHR0cHM6Ly9tZWRp/YTEudGVub3IuY29t/L2ltYWdlcy9jZDM3/ZmE0OWM5ODNhYzkw/NWRmMDAxNmZkNWI2/YTJlZS90ZW5vci5n/aWY_aXRlbWlkPTEz/MTY1MjE2.gif" style="width: 300px; height: 200px;" >
 
 
 <br>
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=striender&label=Profile%20views&color=0e75b6&style=flat" style="width: 300px; height: 200px;" alt="striender" /> </p
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=striender&label=Profile%20views&color=0e75b6&style=flat" alt="striender" /> </p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
