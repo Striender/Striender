@@ -36,3 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=striender&show_icons=true&locale=en&layout=compact" style="width:350px ; height:200px ;" alt="striender" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=striender&show_icons=true&locale=en" style="width:400px ; height:250x ;"  alt="striender" /></p>
+
+<p>![](https://leetcard.jacoblin.cool/Striender?ext=activity)</p>
