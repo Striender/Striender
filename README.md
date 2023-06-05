@@ -41,7 +41,6 @@
           </td>
           <td>
             <p><img align="center"  style="width:350px ; height:200x ;"  src="https://github-readme-stats.vercel.app/api?username=striender&show_icons=true&locale=en" alt="striender" /></p>
-
           </td>
         </tr>
       </table>
