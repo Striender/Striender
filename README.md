@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=striender&show_icons=true&locale=en" style="width:400px ; height:250x ;"  alt="striender" /></p>
 
-![](https://leetcard.jacoblin.cool/Striender?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/Striender?theme=light,unicorn?width=350&height=200&align=right)
