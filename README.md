@@ -33,7 +33,6 @@
 <br>
 <br>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Striender?theme=light&font=&extension=null)  
 
 
 <table>
@@ -46,6 +45,8 @@
           </td>
         </tr>
       </table>
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Striender?theme=light&font=&extension=null)  
 
 
 
