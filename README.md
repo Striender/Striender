@@ -16,7 +16,6 @@
 ### 🔬 My Research & Academics
 * 🎓 I'm currently pursuing my M.S. in Computer Science at **IIT Bombay**.
 * 🧠 My research focus is on **Computer Microarchitecture**.
-    * *(Optional: Add a line about your specific interest, e.g., "I'm exploring branch prediction algorithms" or "investigating cache coherence protocols.")*
 * 💬 Ask me about: **Computer Architecture, C, C++**
 
 ### 💻 My Web Development Side
