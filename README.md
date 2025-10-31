@@ -66,11 +66,6 @@
 <br>
 
 <h3 align="left">📊 My GitHub Stats</h3>
-
-<p align="center">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=striender&show_icons=true&locale=en&theme=light&rank_icon=github" alt="striender" />
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=striender&show_icons=true&locale=en&layout=compact&theme=light" alt="striender" />
-</p>
 <br>
 <p align="center">
   <img align="center" src="https://leetcode.card.workers.dev/Striender?theme=light&font=&extension=null" alt="Striender's LeetCode Stats" />
