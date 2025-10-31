@@ -19,9 +19,8 @@
 * 💬 Ask me about: **Computer Architecture, C, C++**
 
 ### 💻 My Web Development Side
-* 🔭 I’m currently building a **Travel Website** project.
-* 🌱 I’m currently learning the **MERN Stack** (MongoDB, Express, React, Node.js) and UI/UX design with **FIGMA**.
-* 💬 Ask me about: **JavaScript, React, HTML, CSS**
+* 🔭 I’m currently doing research **How Prefetcher and Cache Replacement policies interact** project.
+* 💬 Ask me about: **Microarchitecture,JavaScript, React, HTML, CSS**
 
 ---
 
